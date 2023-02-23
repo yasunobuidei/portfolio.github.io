@@ -67,9 +67,9 @@ body {
            #photo{width: 40vw;
             display: block; 
             margin: auto;
-            margin-bottom: 20px;
+            margin-bottom:5vw;
             margin-left: 7.5vw;
-            margin-top: 20px;
+            margin-top: 0px;
             
 
  
@@ -77,9 +77,9 @@ body {
  #photo1{width: 40vw;
     display: block; 
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom:5vw;
     margin-left:5vw;
-    margin-top: 20px;
+    margin-top: 0px;
 
  
  
@@ -87,9 +87,9 @@ body {
  #photo2{width: 85vw;
     display: block; 
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 5vw;
     margin-left:7.5vw;
-    margin-top: 20px;
+    margin-top: ;
 
  
  
