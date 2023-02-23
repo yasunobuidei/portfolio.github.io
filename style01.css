@@ -6,6 +6,10 @@ a {
     color: #4d4d4d;;
   }
 
+body {
+    background-color: #ACB5B9;
+  }
+
 
 
 @media screen and (min-width:768px) {
