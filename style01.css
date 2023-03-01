@@ -101,28 +101,31 @@ body {
  @media screen  and ( max-width:768px) {
  
      
-    #name{width: 300px;
+    #name{width: 23vw;
         display: block; 
-        margin: auto;
-     　　position:relative;}
- #menu1{width: 300px;
+        margin-left:2.5vw;
+        margin-top: 3vw;
+        margin-bottom: 5vw;
+        }
+ #menu1{width:0px;
         display: block; 
         margin: auto;
         position: absolute;
         top:10px;
         right:auto;}
-        #menu{width: 00px;
+        #menu{width: 10vw;
             display: block; 
-            margin: auto;
-            position: absolute;
-            top:10px;
-            right:auto;}
+            margin-left:7.5vw;
+            margin-top: 3vw;
+            margin-bottom: 5vw;
+            }
             #instagram{width: 00px;
                 display: block; 
                 margin: auto;
                 position: absolute;
                 top:10px;
                 right:auto;}
+  
   
 
   .header {
