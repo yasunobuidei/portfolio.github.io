@@ -6,10 +6,9 @@ a {
     color: #4d4d4d;;
   }
 
-body {
+  body {
     background-color: #ACB5B9;
   }
-
 
 
 @media screen and (min-width:768px) {
@@ -68,9 +67,9 @@ body {
            #photo{width: 40vw;
             display: block; 
             margin: auto;
-            margin-bottom:5vw;
+            margin-bottom: 5vw;
             margin-left: 7.5vw;
-            margin-top: 0px;
+            margin-top: 0;
             
 
  
@@ -90,47 +89,55 @@ body {
     margin: auto;
     margin-bottom: 5vw;
     margin-left:7.5vw;
-    margin-top: ;
+    margin-top:0px;
 
  
  
  }
+ .footer {
+    height: 15vw;
+    background-color:transparent;
+    box-sizing: border-box;
+    border: 0px solid blue;
+    position: sticky;
+    top: 00px;
+       
+      }
  
  
  
  @media screen  and ( max-width:768px) {
  
      
-    #name{width: 23vw;
+  #name{width: 23vw;
+    display: block; 
+    margin-left:2.5vw;
+    margin-top: 3vw;
+    margin-bottom: 5vw;
+    }
+#menu1{width:0px;
+    display: block; 
+    margin: auto;
+    position: absolute;
+    top:10px;
+    right:auto;}
+    #menu{width: 10vw;
         display: block; 
-        margin-left:2.5vw;
+        margin-left:7.5vw;
         margin-top: 3vw;
         margin-bottom: 5vw;
         }
- #menu1{width:0px;
-        display: block; 
-        margin: auto;
-        position: absolute;
-        top:10px;
-        right:auto;}
-        #menu{width: 10vw;
+        #instagram{width: 00px;
             display: block; 
-            margin-left:7.5vw;
-            margin-top: 3vw;
-            margin-bottom: 5vw;
-            }
-            #instagram{width: 00px;
-                display: block; 
-                margin: auto;
-                position: absolute;
-                top:10px;
-                right:auto;}
-  
+            margin: auto;
+            position: absolute;
+            top:10px;
+            right:auto;}
   
 
   .header {
           height: 100px;
-          background-color: white;
+          background-color:transparent;
           box-sizing: border-box;
           border: 0px solid blue;
           position: sticky;
@@ -151,13 +158,46 @@ body {
           flex-grow: 1;
             }
 
-  #photo{width: 40vw;
-      display: block; 
-      margin: auto;
-      margin-bottom: 20px;
-      margin-top: 20px;
   
-  }
+  #photo{width: 85vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:5vw;
+    margin-left:7.5vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
+ #photo1{width: 85vw;
+  display: block; 
+  margin: auto;
+  margin-bottom:5vw;
+  margin-left:7.5vw;
+  margin-top: 0px;
+
+
+
+}
+#photo2{width: 85vw;
+  display: block; 
+  margin: auto;
+  margin-bottom:5vw;
+  margin-left:7.5vw;
+  margin-top: 0px;
+
+
+
+}
+  .footer {
+    height: 15vw;
+    background-color:transparent;
+    box-sizing: border-box;
+    border: 0px solid blue;
+    position: sticky;
+    top: 00px;
+       
+      }
   
  }
  
