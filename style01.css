@@ -104,12 +104,22 @@ a {
  
  
  }
- #photo2{width: 85vw;
+ #photo3{width: 20.5vw;
     display: block; 
     margin: auto;
-    margin-bottom: 5vw;
+    margin-bottom:1vw;
     margin-left:7.5vw;
-    margin-top:0px;
+    margin-top: -13.62vw;
+
+ 
+ 
+ }
+ #photo4{width: 20.5vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:1vw;
+    margin-left:1vw;
+    margin-top: -13.62vw;
 
  
  
@@ -178,12 +188,12 @@ a {
           flex-grow: 1;
             }
 
-     .box img:last-of-type {
+     .box a:last-of-type {
   opacity: 0;
   transition: opacity .7s;
 }
 /* hoverすると2枚目の画像が透明じゃなくなる */
-.box:hover img {
+.box:hover a {
   opacity: 1;
 }
 
@@ -214,6 +224,26 @@ a {
   margin-bottom:5vw;
   margin-left:7.5vw;
   margin-top: 0px;
+
+
+
+}
+     #photo3{width: 85vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:5vw;
+    margin-left:7.5vw;
+    margin-top: -57.099vw;
+
+ 
+ 
+ }
+ #photo4{width: 85vw;
+  display: block; 
+  margin: auto;
+  margin-bottom:5vw;
+  margin-left:7.5vw;
+  margin-top: -57.099vw;
 
 
 
