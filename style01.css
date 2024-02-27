@@ -20,7 +20,7 @@ a {
         margin-bottom: 3vw;
     }
     }
- #menu1{height:2vw;
+ #menu1{height:2.4vw;
     display: block; 
     margin-top: 3vw;
     margin-left: 1vw;}
@@ -74,21 +74,21 @@ a {
 
  
  }
- #photo{width: 20.5vw;
+ #photo{width: 21vw;
     display: block; 
     margin: auto;
-    margin-bottom:1vw;
+    margin-bottom:0.33vw;
     margin-left:7.5vw;
     margin-top: 0px;
 
  
  
  }
- #photo1{width: 20.5vw;
+ #photo1{width: 21vw;
     display: block; 
     margin: auto;
-    margin-bottom:1vw;
-    margin-left:1vw;
+    margin-bottom:0.33vw;
+    margin-left:0.33vw;
     margin-top: 0px;
 
  
