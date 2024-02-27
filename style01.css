@@ -36,7 +36,7 @@ a {
  .app {
          width: 100vw;
          height: 100vh;
-         border: 1px solid blue;
+         border: 0px solid blue;
          display: flex;
          flex-direction: column;
            }        
@@ -44,7 +44,7 @@ a {
          height: 15vw;
          background-color: transparent;
          box-sizing: border-box;
-         border: 1px solid blue;
+         border: 0px solid blue;
          position: sticky;
          top: 00px;
          display: flex;
@@ -57,7 +57,7 @@ a {
          display: flex;
          flex-direction: column;
          flex-grow:1;
-         border: 1px solid blue;
+         border: 0px solid blue;
            }
  
 
@@ -65,7 +65,7 @@ a {
          display: flex;
          flex-direction: row;
          flex-grow: 1;
-         border: 1px solid blue;
+         border: 0px solid blue;
            }
            #photo{width: 40vw;
             display: block; 
