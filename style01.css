@@ -74,7 +74,17 @@ a {
 
  
  }
- #photo1{width: 40vw;
+ #photo{width: 20vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:5vw;
+    margin-left:5vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
+ #photo1{width: 20vw;
     display: block; 
     margin: auto;
     margin-bottom:5vw;
