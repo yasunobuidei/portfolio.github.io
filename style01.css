@@ -16,7 +16,7 @@ a {
         display: block; 
         margin-top: 3vw;
         margin-left: 7.5vw;
-        margin-right: 10vw;
+        margin-right: 7.5vw;
         margin-bottom: 3vw;
     }
     }
@@ -74,21 +74,21 @@ a {
 
  
  }
- #photo{width: 20vw;
+ #photo{width: 19vw;
     display: block; 
     margin: auto;
-    margin-bottom:5vw;
-    margin-left:5vw;
+    margin-bottom:3vw;
+    margin-left:3vw;
     margin-top: 0px;
 
  
  
  }
- #photo1{width: 20vw;
+ #photo1{width: 19vw;
     display: block; 
     margin: auto;
-    margin-bottom:5vw;
-    margin-left:5vw;
+    margin-bottom:3vw;
+    margin-left:3vw;
     margin-top: 0px;
 
  
