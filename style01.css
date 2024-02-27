@@ -74,21 +74,21 @@ a {
 
  
  }
- #photo{width: 21vw;
+ #photo{width: 20.5vw;
     display: block; 
     margin: auto;
-    margin-bottom:0.33vw;
+    margin-bottom:1vw;
     margin-left:7.5vw;
     margin-top: 0px;
 
  
  
  }
- #photo1{width: 21vw;
+ #photo1{width: 20.5vw;
     display: block; 
     margin: auto;
-    margin-bottom:0.33vw;
-    margin-left:0.33vw;
+    margin-bottom:1vw;
+    margin-left:1vw;
     margin-top: 0px;
 
  
