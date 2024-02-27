@@ -178,6 +178,15 @@ a {
           flex-grow: 1;
             }
 
+     .box img:last-of-type {
+  opacity: 0;
+  transition: opacity .7s;
+}
+/* hoverすると2枚目の画像が透明じゃなくなる */
+.box:hover img {
+  opacity: 1;
+}
+
   
   #photo{width: 85vw;
     display: block; 
