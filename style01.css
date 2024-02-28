@@ -79,6 +79,16 @@ a {
  }
 
 .box a:last-of-type {
+  display: block;
+  opacity: 0;
+  transition: opacity .7s;
+}
+.box a:first-of-type {
+  display: block;
+  opacity: 1;
+}
+.boxsp a:last-of-type {
+  display: none; 
   opacity: 0;
   transition: opacity .7s;
 }
@@ -192,8 +202,17 @@ a {
             }
 
      .box a:last-of-type {
+  display: none;
   opacity: 0;
   transition: opacity .7s;
+}
+     .box a:first-of-type {
+  display: none;
+  opacity: 1;
+}
+.boxsp a:last-of-type {
+  display: block; 
+  opacity: 0;
 }
 /* hoverすると2枚目の画像が透明じゃなくなる */
 .box:hover a {
