@@ -241,7 +241,7 @@ a {
 
   
   #photo{width: 85vw;
-    display: block; 
+    display: none; 
     margin: auto;
     margin-bottom:5vw;
     margin-left:7.5vw;
@@ -251,7 +251,7 @@ a {
  
  }
  #photo1{width: 85vw;
-  display: block; 
+  display: none; 
   margin: auto;
   margin-bottom:5vw;
   margin-left:7.5vw;
@@ -271,7 +271,7 @@ a {
 
 }
      #photo3{width: 85vw;
-    display: block; 
+    display: none; 
     margin: auto;
     margin-bottom:5vw;
     margin-left:7.5vw;
@@ -281,11 +281,31 @@ a {
  
  }
  #photo4{width: 85vw;
-  display: block; 
+  display: none; 
   margin: auto;
   margin-bottom:5vw;
   margin-left:7.5vw;
   margin-top: -57.099vw;
+
+
+
+}
+#photo10{width: 85vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:5vw;
+    margin-left:7.5vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
+ #photo11{width: 85vw;
+  display: block; 
+  margin: auto;
+  margin-bottom:5vw;
+  margin-left:7.5vw;
+  margin-top: 0px;
 
 
 
