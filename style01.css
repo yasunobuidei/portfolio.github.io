@@ -232,7 +232,7 @@ a {
 }
 .boxsp a:last-of-type {
   display: block; 
-  opacity: 0;
+  opacity: 1;
 }
 /* hoverすると2枚目の画像が透明じゃなくなる */
 .box:hover a {
