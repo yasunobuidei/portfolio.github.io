@@ -197,7 +197,7 @@ a {
 }
 /* hoverすると2枚目の画像が透明じゃなくなる */
 .box:hover a {
-  opacity: 1;
+  opacity: 0;
 }
 
   
