@@ -188,6 +188,10 @@ a {
     position: absolute;
     top:10px;
     right:auto;}
+     #menu2{width:0vw;
+    display: block; 
+    margin-top: 3vw;
+    margin-left: 0vw;}
     #menu{width: 10vw;
         display: block; 
         margin-left:7.5vw;
