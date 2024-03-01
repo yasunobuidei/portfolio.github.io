@@ -12,21 +12,21 @@ a {
 
 
 @media screen and (min-width:768px) {
- #name{width:21.33vw;
+ #name{width:24vw;
         display: block; 
-        margin-top: 3vw;
-        margin-left: 7.5vw;
-        margin-right: 0vw;
-        margin-bottom: 3vw;
+        margin-top: 4.69vw;
+        margin-left: 0.8vw;
+        margin-right: 25.66vw;
+        margin-bottom: 7.94vw;
     }
     }
- #menu1{width:10.665vw;
+ #menu1{width:12.33vw;
     display: block; 
-    margin-top: 3vw;
+    margin-top: 4.69vw;
     margin-left: 0vw;}
- #menu2{width:21.33vw;
+ #menu2{width:20.35vw;
     display: block; 
-    margin-top: 3vw;
+    margin-top: 4.69vw;
     margin-left: 0vw;}
         #menu{width: 0px;
             display: block; 
@@ -35,8 +35,9 @@ a {
                 display: block; 
                 margin-top: 2.7vw;
                 margin-left: 5vw;}
-#taiyo{width: 0px;
-            display: none; 
+#taiyo{width: 3.73px;
+            display: block;
+            margin-top: 4.69vw;
             margin: auto;}
  
 
