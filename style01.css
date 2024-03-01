@@ -12,18 +12,18 @@ a {
 
 
 @media screen and (min-width:768px) {
- #name{width:15vw;
+ #name{width:21.33vw;
         display: block; 
         margin-top: 3vw;
         margin-left: 7.5vw;
-        margin-right: 7.5vw;
+        margin-right: 0vw;
         margin-bottom: 3vw;
     }
     }
- #menu1{height:2.25vw;
+ #menu1{width:10.665vw;
     display: block; 
     margin-top: 3vw;
-    margin-left: 1vw;}
+    margin-left: 0vw;}
         #menu{width: 0px;
             display: block; 
             margin: auto;}
