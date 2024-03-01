@@ -14,7 +14,7 @@ a {
 @media screen and (min-width:768px) {
  #name{width:24vw;
         display: block; 
-        margin-top: 4.69vw;
+        margin-top: 0.8vw;
         margin-left: 0.8vw;
         margin-right: 25.66vw;
         margin-bottom: 7.94vw;
@@ -22,11 +22,11 @@ a {
     }
  #menu1{width:12.33vw;
     display: block; 
-    margin-top: 4.69vw;
+    margin-top: 0.8vw;
     margin-left: 0vw;}
  #menu2{width:20.35vw;
     display: block; 
-    margin-top: 4.69vw;
+    margin-top: 0.8vw;
     margin-left: 0vw;}
         #menu{width: 0px;
             display: block; 
@@ -37,7 +37,7 @@ a {
                 margin-left: 5vw;}
 #taiyo{width: 3.73vw;
             display: block;
-            margin-top: 4.69vw;
+            margin-top: 0.8vw;
             margin: auto;}
  
 
