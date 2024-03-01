@@ -36,6 +36,7 @@ a {
                 margin-top: 2.7vw;
                 margin-left: 5vw;}
 #taiyo{width: 3.73vw;
+       height: 3.73vw;
             display: block;
             margin-top:0.8vw;
       margin-left: 0vw;}
@@ -203,6 +204,7 @@ a {
         margin-bottom: 17.18vw;
         }
      #taiyo{width: 7.84vw;
+            height: 7.84vw;
         display: block; 
         margin-left:16.6vw;
         margin-top: 7.34vw;
@@ -308,21 +310,21 @@ a {
 
 
 }
-#photo10{width: 85vw;
+#photo10{width: 96.13vw;
     display: block; 
     margin: auto;
-    margin-bottom:5vw;
-    margin-left:7.5vw;
+    margin-bottom:1.93vw;
+    margin-left:1.93vw;
     margin-top: 0px;
 
  
  
  }
- #photo11{width: 85vw;
+ #photo11{width: 96.13vw;
   display: block; 
   margin: auto;
-  margin-bottom:5vw;
-  margin-left:7.5vw;
+  margin-bottom:1.93vw;
+  margin-left:1.93vw;
   margin-top: 0px;
 
 
