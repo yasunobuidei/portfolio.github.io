@@ -35,6 +35,9 @@ a {
                 display: block; 
                 margin-top: 2.7vw;
                 margin-left: 5vw;}
+#taiyo{width: 0px;
+            display: none; 
+            margin: auto;}
  
 
  .app {
@@ -195,6 +198,12 @@ a {
     #menu{width: 9.1vw;
         display: block; 
         margin-left:7.5vw;
+        margin-top: 3vw;
+        margin-bottom: 5vw;
+        }
+     #taiyo{width: 5.14vw;
+        display: block; 
+        margin-left:40.78vw;
         margin-top: 3vw;
         margin-bottom: 5vw;
         }
