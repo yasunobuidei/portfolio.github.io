@@ -176,9 +176,9 @@ a {
  @media screen  and ( max-width:768px) {
  
      
-  #name{width: 23vw;
+  #name{width: 27.47vw;
     display: block; 
-    margin-left:2.5vw;
+    margin-left:3vw;
     margin-top: 3vw;
     margin-bottom: 5vw;
     }
@@ -192,7 +192,7 @@ a {
     display: block; 
     margin-top: 3vw;
     margin-left: 0vw;}
-    #menu{width: 10vw;
+    #menu{width: 9.1vw;
         display: block; 
         margin-left:7.5vw;
         margin-top: 3vw;
