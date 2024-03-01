@@ -180,36 +180,36 @@ a {
  @media screen  and ( max-width:768px) {
  
      
-  #name{width: 27.47vw;
+  #name{width: 50.45vw;
     display: block; 
-    margin-left:3vw;
-    margin-top: 3vw;
-    margin-bottom: 5vw;
+    margin-left:4.45vw;
+    margin-top: 7.34vw;
+    margin-bottom: 17.18vw;
     }
 #menu1{width:0px;
-    display: block; 
+    display:none; 
     margin: auto;
     position: absolute;
     top:10px;
     right:auto;}
      #menu2{width:0vw;
-    display: block; 
+    display: none; 
     margin-top: 3vw;
     margin-left: 0vw;}
-    #menu{width: 9.1vw;
+    #menu{width: 16.76vw;
         display: block; 
-        margin-left:7.5vw;
-        margin-top: 3vw;
-        margin-bottom: 5vw;
+        margin-left:1.93vw;
+        margin-top: 7.34vw;
+        margin-bottom: 17.18vw;
         }
-     #taiyo{width: 5.14vw;
+     #taiyo{width: 7.84vw;
         display: block; 
-        margin-left:40.78vw;
-        margin-top: 3vw;
-        margin-bottom: 5vw;
+        margin-left:16.6vw;
+        margin-top: 7.34vw;
+        margin-bottom: 17.18vw;
         }
         #instagram{width: 00px;
-            display: block; 
+            display: none; 
             margin: auto;
             position: absolute;
             top:10px;
