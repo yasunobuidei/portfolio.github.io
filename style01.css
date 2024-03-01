@@ -100,7 +100,7 @@ a {
  #photo{width: 21vw;
     display: block; 
     margin: auto;
-    margin-bottom:1vw;
+    margin-bottom:0.5vw;
     margin-left:7.5vw;
     margin-top: 0px;
 
@@ -110,7 +110,7 @@ a {
  #photo1{width: 21vw;
     display: block; 
     margin: auto;
-    margin-bottom:1vw;
+    margin-bottom:0.5vw;
     margin-left:0.33vw;
     margin-top: 0px;
 
